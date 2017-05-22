@@ -33,8 +33,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : Focus Hsu
+tagline: Life is simple, simple is lohas
 assets: /assets
 baseurl: 
 
@@ -88,8 +88,8 @@ share_button: true #enable share buttons if true
 
 #### Author information
 author:
-  name: yitao      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
+  name: Focus      ## e.g. wuchong Author name
+  intro_line1:  "Hello ,I'm Focus."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
@@ -115,7 +115,7 @@ toc:
 #### Links
 links:
   码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+  GitHub: https://github.com/focusdada
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.
