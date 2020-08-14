@@ -2,7 +2,6 @@
 
 - Mobile/wechat：18036081566
 - Email：focusdada@126.com
-- QQ：615302864
 
 ---
 
@@ -10,33 +9,27 @@
 
  - XuDa/Male/1987
  - Computer Science And Technology/Changshu Insititute of Technology
- - Working Years：8 Years
+ - Working Years：9 Years
  - Tech Blog：http://focushsu.top
  - Github：https://github.com/focusdada
 
- - 期望职位：.NET高级程序员，技术经理，Web前端工程师
- - 期望薪资：月薪17k~18k，年薪≈25W,特别感兴趣的职位可例外
- - 期望城市：苏州
-
+ - Expect Position: PM, Senior .NET Engineer
 ---
 
-# 工作经历
+# Working Experience
 
-## SCHOTT Glass （ 2015年9月 ~ 至今 ）
+## SCHOTT （ 2015.9 ~ Now ）
 
-### BPM
+### Responsibility
 
-基于微软SharePoint平台和NINTEX工作流引擎搭建的工作流平台，致力于优化和管理企业内部的业务流程。
+- Responsible for IT application function in China.
+- Lead BPM system development & operation.
+- Push major technology decisions and result in software architecture
+- Make decisions on major aspects compared to documentation architecture, including system requirement, design, implementation, deploying and such views.
 
-- 负责需求调研分析和项目管理工作。
-- 负责技术框架搭建，开发管理。
+### Projects
 
-系统上线后优化企业内容流程，提升员工工作效率。后期根据大量业务数据的分析为公司流程改善提供支持。
-
-### 其他
-
-- 负责公司开发流程规范定义以及执行
-- 负责SharePoint平台的相关开发和管理
+- Lead BPM project,
 
 ---
 
